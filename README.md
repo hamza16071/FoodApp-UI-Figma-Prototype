@@ -21,9 +21,11 @@ Designed a clean, fast, and user-friendly mobile interface focusing on 3 core fl
 `Figma` `Auto Layout` `Components` `Dev Mode` `Prototyping`
 
 ## Screenshots
-![Home Screen](./design/home.png)
-![Menu Screen](./design/menu.png)
-![Cart Screen](./design/cart.png)
+<img width="502" height="248" alt="image" src="https://github.com/user-attachments/assets/ea49bf7f-f3cd-4f8b-a2ed-3466031db445" />
+
+<img width="424" height="227" alt="image" src="https://github.com/user-attachments/assets/f0f8807a-4360-4532-8986-ca8d0f4cb1c9" />
+
+
 
 ## Links
 https://www.figma.com/design/LvF2ylnhalTarsYik3yeTn/M.Hamza-Figma-Task?timeline=keyframe&node-id=0-1&p=f&t=ETrmE1hPTbFQ2ADO-0
